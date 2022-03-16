@@ -34,6 +34,12 @@ Those of us who work in the terminal often have set up a custom file that runs w
 ### Check out these links for some inspiration:&#x20;
 
 {% embed url="https://twitter.com/sallylait/status/1499685147700043776?s=20&t=SRzyHv4f6vkeSUYisurUGA" %}
+A cute terminal built with oh-my-zsh
+{% endembed %}
+
+{% embed url="https://github.com/ohmyzsh/ohmyzsh/wiki/Themes" %}
+oh-my-zsh themes
+{% endembed %}
 
 {% embed url="https://chiamakaikeanyi.dev/how-to-create-a-custom-message-on-your-terminal" %}
 
