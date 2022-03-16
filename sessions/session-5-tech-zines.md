@@ -1,8 +1,8 @@
 ---
-description: May
+description: June
 ---
 
-# 📖 Session 4: Tech Zines
+# 📖 Session 5: Tech Zines
 
 ## 1. What are Zines?
 
