@@ -109,6 +109,8 @@ One of the most prolific creators of kawaii-tech tooling. She creates everything
 
 ### Casidoo
 
+[https://cassidoo.co/](https://cassidoo.co)
+
 Partnered with Sailor Mercury on Keycaps, as well as creating a few others:
 
 [Massdrop x Hasbro Scrabble Keyboard](https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard)
