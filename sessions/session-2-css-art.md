@@ -1,3 +1,7 @@
+---
+description: February
+---
+
 # 🔳 Session 2: CSS Art
 
 CSS (Cascading Style Sheets) style the web. But in addition to adorning websites, did you know that pure CSS can be used to create art?

@@ -1,3 +1,7 @@
+---
+description: January
+---
+
 # 🎨 Session 1: "Great Artists Steal (With Permission)"
 
 Date: Jan 26, 2022, 19:00 JST \

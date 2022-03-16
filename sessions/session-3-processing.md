@@ -1,3 +1,7 @@
+---
+description: April
+---
+
 # ⚙ Session 3: Processing
 
 [https://www.meetup.com/Women-Who-Code-Tokyo/events/284042719/](https://www.meetup.com/Women-Who-Code-Tokyo/events/284042719/)
