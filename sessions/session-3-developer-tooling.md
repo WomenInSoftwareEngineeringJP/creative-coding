@@ -113,7 +113,7 @@ One of the most prolific creators of kawaii-tech tooling. She creates everything
 
 [Drop DSA Astrolokeys Keycaps by sailorhg & cassidoo - Base Kit | Mechanical Keyboards | Keycaps | Custom Keycaps](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?defaultSelectionIds=963789)
 
-### Casidoo
+### Cassidy Williams
 
 [https://cassidoo.co/](https://cassidoo.co)
 
@@ -125,10 +125,21 @@ And the April Fool’s Stack Overflow key:
 
 [Introducing The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/)
 
-She’s created tons of CSS images in codepen and is a really inspiring person to follow.
 
 
+### Chiamaka Ikeanyi
 
-### Chiamaka
+Chiamaka wrote some great tutorials on customizing your terminal (see above)
 
-[https://chiamakaikeanyi.dev/](https://chiamakaikeanyi.dev)
+{% embed url="https://chiamakaikeanyi.dev" %}
+
+### Mina Markham
+
+She's created Design Systems for US Presidential candidates and is a keynote speaker.
+
+[http://mina.codes/](http://mina.codes/#%F0%9F%92%8B)
+
+{% embed url="https://github.com/minamarkham/yonce" %}
+What if Beyonce lived in your terminal? :tada:
+{% endembed %}
+
