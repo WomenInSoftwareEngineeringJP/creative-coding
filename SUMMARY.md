@@ -10,3 +10,8 @@
 * [📖 Session 4: Tech Zines](sessions/session-4-tech-zines.md)
 * [❓ Session 5: TBD](sessions/session-5-tbd.md)
 * [😂 Session 6: Emoji](sessions/session-6-emoji.md)
+
+***
+
+* [🧰 Resources](resources.md)
+* [👯♀ Member Show and Tell](member-show-and-tell.md)

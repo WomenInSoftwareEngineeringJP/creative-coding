@@ -8,8 +8,26 @@ description: Home page for Creative Coding Study Session
 
 ## Creative Coding Study Group
 
-Now in GitBook!
+Now in GitBook! [https://ann-kilzer-kiruz.gitbook.io/creative-coding-study-session/](https://ann-kilzer-kiruz.gitbook.io/creative-coding-study-session/)
 
-### About WWCode
+### How to participate
 
-![GitHub Org's stars](https://img.shields.io/github/stars/WWCodeTokyo?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/wwcode\_tokyo?style=social) ![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/wwcodetokyo)
+#### Meetups
+
+📆 [https://www.meetup.com/Women-Who-Code-Tokyo/](https://www.meetup.com/Women-Who-Code-Tokyo/)
+
+#### Asynchronous Learning:
+
+💬 [Women Who Code Slack](https://www.womenwhocode.com/signup) #creative-coding Channel
+
+### About Women Who Code Tokyo
+
+{% embed url="https://www.womenwhocode.com/tokyo" %}
+Home Page
+{% endembed %}
+
+{% embed url="https://www.notion.so/wwcode/Women-Who-Code-Tokyo-Public-Wiki-d2c50cd1917c4771a1c80280e1736b19" %}
+Public Notion
+{% endembed %}
+
+\
