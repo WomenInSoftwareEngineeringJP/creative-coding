@@ -16,4 +16,5 @@
 
 * [🌈 Color](resources/color.md)
 * [🛠 Tools](resources/tools.md)
+* [😊 Unicode: Emoji, Symbols, and more](resources/unicode-emoji-symbols-and-more.md)
 * [👯♀ Member Show and Tell](resources/member-show-and-tell.md)
