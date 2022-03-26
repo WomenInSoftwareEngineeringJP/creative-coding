@@ -15,15 +15,29 @@ Bonus: Share your customization with others by publishing, blogging, or making a
 
 
 
-## IDEs
+## IDE UI Customization
+
+
 
 #### VS Code
 
 {% embed url="https://css-tricks.com/creating-a-vs-code-theme" %}
 
+#### JetBrains / IntelliJ
+
+{% embed url="https://plugins.jetbrains.com/docs/intellij/themes-intro.html" %}
+
 #### Atom
 
 {% embed url="https://flight-manual.atom.io/hacking-atom/sections/creating-a-theme" %}
+
+#### VIM
+
+{% embed url="https://phoenixnap.com/kb/vim-color-schemes" %}
+
+#### Emacs
+
+{% embed url="https://david.rothlis.net/emacs/customize_colors.html" %}
 
 ## Terminal
 
@@ -37,8 +51,12 @@ Those of us who work in the terminal often have set up a custom file that runs w
 A cute terminal built with oh-my-zsh
 {% endembed %}
 
+{% embed url="https://github.com/ann-kilzer/annkilzer.zsh-theme" %}
+Ann's oh-my-zsh themes
+{% endembed %}
+
 {% embed url="https://github.com/ohmyzsh/ohmyzsh/wiki/Themes" %}
-oh-my-zsh themes
+Large library of oh-my-zsh themes, good for forking
 {% endembed %}
 
 {% embed url="https://chiamakaikeanyi.dev/how-to-create-a-custom-message-on-your-terminal" %}
@@ -99,7 +117,11 @@ The giant Yodobashi Camera in Akibahara has a selection of Mechanical as well as
 
 
 
+#### Custom Keys
 
+Some people even make their own special keys using materials like resin. Here's a video of the process!
+
+{% embed url="https://www.youtube.com/watch?ab_channel=jedrek29t&v=W_13KoGFIvE" %}
 
 ## Creators
 
