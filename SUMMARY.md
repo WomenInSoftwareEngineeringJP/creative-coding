@@ -11,6 +11,7 @@
 * [⚙ Session 4: Processing](sessions/session-4-processing.md)
 * [📖 Session 5: Tech Zines](sessions/session-5-tech-zines.md)
 * [😂 Session 6: Emoji](sessions/session-6-emoji.md)
+* [🤖 A.I. for Humor](sessions/a.i.-for-humor.md)
 
 ## 🧰 Resources
 
@@ -18,3 +19,7 @@
 * [🛠 Tools](resources/tools.md)
 * [😊 Unicode: Emoji, Symbols, and more](resources/unicode-emoji-symbols-and-more.md)
 * [👯♀ Member Show and Tell](resources/member-show-and-tell.md)
+
+## ❔ F.A.Q.s <a href="#faq" id="faq"></a>
+
+* [🪙 What about NFTs?](faq/what-about-nfts.md)
