@@ -13,7 +13,7 @@ Meetup link: [https://www.meetup.com/Women-Who-Code-Tokyo/events/283171428/](htt
 
 > “The quote in this form was a favorite of Steve Jobs but he but he was probably (mis)quoting Pablo Picasso who said “Lesser artists borrow; great artists steal” – who in turn might be rephrasing Igor Stravinsky, but both sayings may well originate in T. S. Eliot’s dictum: “Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different. The good poet welds his theft into a whole of feeling which is unique, utterly different than that from which it is torn.” – The origins of this quote itself is an example of great artists stealing.”
 
-\-- [https://www.uvu.edu/arts/applause/posts/stealing.html](https://www.uvu.edu/arts/applause/posts/stealing.html)
+\-- [https://web.archive.org/web/20220209094627/https://www.uvu.edu/arts/applause/posts/stealing.html](https://web.archive.org/web/20220209094627/https://www.uvu.edu/arts/applause/posts/stealing.html)
 
 ### Tonight's goal 🎯
 
@@ -21,7 +21,7 @@ Can you take an existing software idea and "make it into something better" by in
 
 #### Examples 💭
 
-* Accessibility for WORDLE [https://wa11y.co/](https://wa11y.co)
+* Accessibility for WORDLE [https://wa11y.co/](https://wa11y.co/)
 * Like WORDLE but in Swedish [https://glitch.com/\~swordle](https://glitch.com/\~swordle)
 * Aggregates WORDLE shares across Twitter: [https://glitch.com/\~wordleshares](https://glitch.com/\~wordleshares)
 * Japanese WORDLE: [https://aseruneko.github.io/WORDLEja/](https://aseruneko.github.io/WORDLEja/)
@@ -40,7 +40,7 @@ Try "remixing" [https://glitch.com/\~worble](https://glitch.com/\~worble) or for
 
 Word Lists
 
-* [https://developer.wordnik.com/](https://developer.wordnik.com)
+* [https://developer.wordnik.com/](https://developer.wordnik.com/)
 * [https://github.com/wordnik/wordlist](https://github.com/wordnik/wordlist)
 * [https://github.com/hannahcode/wordle/tree/main/src/constants](https://github.com/hannahcode/wordle/tree/main/src/constants)
 
@@ -57,4 +57,4 @@ There are no simple answers here, but we ask you to be considerate of others and
 
 #### Open Source Information
 
-* [https://choosealicense.com/](https://choosealicense.com)
+* [https://choosealicense.com/](https://choosealicense.com/)
