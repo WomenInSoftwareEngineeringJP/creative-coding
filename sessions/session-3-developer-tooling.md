@@ -137,7 +137,7 @@ One of the most prolific creators of kawaii-tech tooling. She creates everything
 
 ### Cassidy Williams
 
-[https://cassidoo.co/](https://cassidoo.co)
+[https://cassidoo.co/](https://cassidoo.co/)
 
 Partnered with Sailor Mercury on Keycaps, as well as creating a few others:
 

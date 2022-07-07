@@ -30,8 +30,8 @@ Byte 1: 🔴 Red 00-FF Byte 2: 🟢 Green 00-FF Byte 3: 🔵 Blue 00-FF
 
 #### Palette Generators 💭
 
-* [https://coolors.co/](https://coolors.co)
-* [https://paletton.com/](https://paletton.com)
+* [https://coolors.co/](https://coolors.co/)
+* [https://paletton.com/](https://paletton.com/)
 * [https://material.io/design/color/the-color-system.html#tools-for-picking-colors](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)
 
 #### Traditional Colors of Japan 🎎

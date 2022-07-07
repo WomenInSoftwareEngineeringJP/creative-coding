@@ -1,8 +1,8 @@
 ---
-description: June
+description: July
 ---
 
-# 📖 Session 5: Tech Zines
+# 📖 Session 6: Tech Zines
 
 ## 1. What are Zines?
 
@@ -12,11 +12,11 @@ Zines have roots in Punk Rock and Art culture, but recently have become a tool t
 
 ### Examples:
 
-* [https://shop.bubblesort.io/](https://shop.bubblesort.io) BubbleSort Zines by Sailor Mercury
-* [https://wizardzines.com/](https://wizardzines.com) Wizard Zines by Julia Evans
+* [https://shop.bubblesort.io/](https://shop.bubblesort.io/) BubbleSort Zines by Sailor Mercury
+* [https://wizardzines.com/](https://wizardzines.com/) Wizard Zines by Julia Evans
 * [https://code-art.xyz/issues/](https://code-art.xyz/issues/) Code::Art
 * [https://blog.bigcartel.com/tiny-tech-zines-builds-a-community-around-art-critical-theory-and-tech](https://blog.bigcartel.com/tiny-tech-zines-builds-a-community-around-art-critical-theory-and-tech) Tiny Tech Zines
-* [https://techzinefair.org/](https://techzinefair.org) New York Tech Zine Fair
+* [https://techzinefair.org/](https://techzinefair.org/) New York Tech Zine Fair
 
 Also, given our Network is based in Tokyo, we must nod to the influence of Manga in educational materials. Ai Minatogawa (湊川 あい) created the illustrations behind [a series of books on software and technology](https://www.amazon.co.jp/-/en/%E6%B9%8A%E5%B7%9D-%E3%81%82%E3%81%84/e/B01N8OK2UW?ref\_=dbs\_p\_ebk\_r00\_abau\_000000).
 
@@ -53,7 +53,7 @@ If you're joining us from outside Japan, please adjust as necessary: US Letter f
 * Washi tape
 * Textural materials like decorative papers, half-tone patterns,
 
-Go to [Seikaido](https://www.sekaido.co.jp) in Shinjuku and check out the Manga section if you really want to go deep 😍
+Go to [Seikaido](https://www.sekaido.co.jp/) in Shinjuku and check out the Manga section if you really want to go deep 😍
 
 #### Printing
 
@@ -61,8 +61,8 @@ Stop by your neighborhood Conbini and use the photocopier to make prints. Or sca
 
 For those of you in Japan, we are lucky to have lots of retro tech like Risographs available to the community. You can also do silk-screen. As these techniques are more advanced, they are beyond the scope of our session, but we're just trying to give you an idea of the possibilities 😊
 
-* Silk Screen developing and ink available at [Uematsu](https://e-uematsu.co.jp) in Shibuya
-* Risograph: [Hand Saw Press](http://handsawpresstokyo.com) in Shinagawa
+* Silk Screen developing and ink available at [Uematsu](https://e-uematsu.co.jp/) in Shibuya
+* Risograph: [Hand Saw Press](http://handsawpresstokyo.com/) in Shinagawa
 
 ### Digital Resources
 

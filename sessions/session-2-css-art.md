@@ -13,9 +13,9 @@ CSS (Cascading Style Sheets) style the web. But in addition to adorning websites
 * [Ikko Tanaka](https://codepen.io/yuanchuan/pen/MQEeJo)
 * [Responsive CSS Grid Books](https://codepen.io/andybarefoot/pen/oNjxYYG)
 
-## ⭐️ Tonight's goal: Make CSS art on [CodePen](https://codepen.io)
+## ⭐️ Tonight's goal: Make CSS art on [CodePen](https://codepen.io/)
 
-We recommend using [https://codepen.io/](https://codepen.io) for fast development, but you are also welcome to use an environment of your choice.
+We recommend using [https://codepen.io/](https://codepen.io/) for fast development, but you are also welcome to use an environment of your choice.
 
 ### Recommended Tutorial 🔰
 
