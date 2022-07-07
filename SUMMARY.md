@@ -9,8 +9,8 @@
 * [🖌 Session 3: Developer Tooling](sessions/session-3-developer-tooling.md)
 * [Bonus Session: WWCode Connect](sessions/bonus-session-wwcode-connect.md)
 * [⚙ Session 4: Processing](sessions/session-4-processing.md)
-* [😂 Session 5: Emoji](sessions/session-5-emoji.md)
-* [📖 Session 6: Tech Zines](sessions/session-6-tech-zines.md)
+* [😂 Session 5: Emoji](sessions/session-6-emoji.md)
+* [📖 Session 6: Tech Zines](sessions/session-5-tech-zines.md)
 * [🤖 A.I. for Humor](sessions/a.i.-for-humor.md)
 
 ## 🧰 Resources

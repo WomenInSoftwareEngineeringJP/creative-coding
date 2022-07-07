@@ -14,6 +14,26 @@ This chapter focuses less on the technical implementation and more on resources 
 
 {% embed url="https://emojipedia.org" %}
 
+#### Recommended Emoji Libraries
+
+There are various emoji libraries available for use, whether open source or free for non-commercial purposes. Here are our recommendations:
+
+{% embed url="https://twemoji.twitter.com/" %}
+Twemoji
+{% endembed %}
+
+{% embed url="https://openmoji.org/" %}
+OpenMoji
+{% endembed %}
+
+{% embed url="https://fonts.google.com/noto/specimen/Noto+Emoji" %}
+Noto Emoji
+{% endembed %}
+
+{% embed url="https://sensa.co/emoji/" %}
+Sensa's free emoji set
+{% endembed %}
+
 ### Symbols
 
 {% embed url="https://unicode-table.com/en" %}
