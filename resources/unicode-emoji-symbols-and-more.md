@@ -13,6 +13,12 @@ This chapter focuses less on the technical implementation and more on resources 
 ### Emoji
 
 {% embed url="https://emojipedia.org" %}
+Emojipedia guide to Emoji
+{% endembed %}
+
+{% embed url="https://unicode.org/emoji/charts/full-emoji-list.html" %}
+Full Emoji List from the Unicode Consortium
+{% endembed %}
 
 #### Recommended Emoji Libraries
 
