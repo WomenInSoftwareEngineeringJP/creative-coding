@@ -10,7 +10,11 @@ Zines, short for "magazines" are simple booklets of imagery or comics and printe
 
 Zines have roots in Punk Rock and Art culture, but recently have become a tool to teach about technology.
 
-### Examples:
+{% embed url="https://thecreativeindependent.com/guides/how-to-make-a-zine/" %}
+A good primer on Zines
+{% endembed %}
+
+### Examples of Tech Zines:
 
 * [https://shop.bubblesort.io/](https://shop.bubblesort.io/) BubbleSort Zines by Sailor Mercury
 * [https://wizardzines.com/](https://wizardzines.com/) Wizard Zines by Julia Evans
@@ -39,7 +43,10 @@ The most traditional way to make a zine is with REAL Materials. It's time for cr
 * A4 white paper
 * Anything that makes black marks: e.g. chunky markers like Sharpie, fine-tip pens like Sakura Micron, Brush Pens, Sumi ink, crayon... whatever you have on hand
 * Scissors
-* A magazine with imagery to cut and remix (Think tech magazines, TSUTAYA bookstores often have some great stuff)
+* Imagery to cut and remix
+  * If your Zine is for personal use, magazines are a good source (Think tech magazines, TSUTAYA bookstores often have some great stuff)
+  * You can also print out imagery
+  * See notes on Intellectual Property for further considerations
 * Glue (Ann recommends [アラッビクヤマト](https://www.yamato.co.jp/products/I00000042/) which can be found at any Japanese convenience store)
 * Stapler for binding
 
@@ -69,8 +76,25 @@ For those of you in Japan, we are lucky to have lots of retro tech like Risograp
 Prefer to work digitally? Here are our recommendations for digital Zine creation:
 
 * Draw on a tablet like an iPad or Microsoft Surface
-* Use [Canva.com](https://www.notion.so/wwcode/Zines-833f018194ac4ea0b70926a3d05172b6#732d41806c6a4d0390b7e3516ee31e56)'s free comic templates
-* Try [Pixton](https://app.pixton.com/#/) (paid product with a free 7-day trial)
+* Use [Canva.com](https://www.notion.so/wwcode/Zines-833f018194ac4ea0b70926a3d05172b6#732d41806c6a4d0390b7e3516ee31e56) to make a Zine
+
+{% embed url="https://www.thecontinuist.com/post/digital-zinemaking-on-canva-and-zine-resources" %}
+How to use Canva for Zine-making
+{% endembed %}
+
+### Intellectual Property Considerations
+
+If you'd like to create a Zine to share or sell with the wider world, be sure to use imagery and content where you hold intellectual property rights. Cutting up magazines might work for something casually shared with friends, but could cause legal trouble if shared online or sold.&#x20;
+
+Maybe you live in a country with a [Fair Use ](https://en.wikipedia.org/wiki/Fair\_use)or Parody Law that allows you to share copyrighted work under specific conditions.
+
+#### I found a cool digital image, but I'm not sure who holds the rights
+
+You can use [https://tineye.com/](https://tineye.com/) for a reverse image search if you are trying to find the original source of an image.
+
+#### I need to find images where I have permission to use them
+
+Check out the chapter on [Imagery & Assets](https://app.gitbook.com/s/9eH7GQkucRmuNCDFnfPv/\~/changes/1oxGB7oRK14kAoY8NRCj/resources/imagery-and-assets) for a list of low-cost and free resources
 
 ## 4. Sharing
 

@@ -18,6 +18,7 @@
 * [🌈 Color](resources/color.md)
 * [🛠 Tools](resources/tools.md)
 * [😊 Unicode: Emoji, Symbols, and more](resources/unicode-emoji-symbols-and-more.md)
+* [🖼 Imagery & Assets](resources/imagery-and-assets.md)
 * [👯♀ Member Show and Tell](resources/member-show-and-tell.md)
 
 ## ❔ F.A.Q.s <a href="#faq" id="faq"></a>
