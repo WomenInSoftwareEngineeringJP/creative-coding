@@ -44,9 +44,9 @@ The most traditional way to make a zine is with REAL Materials. It's time for cr
 * Anything that makes black marks: e.g. chunky markers like Sharpie, fine-tip pens like Sakura Micron, Brush Pens, Sumi ink, crayon... whatever you have on hand
 * Scissors
 * Imagery to cut and remix
-  * If your Zine is for personal use, magazines are a good source (Think tech magazines, TSUTAYA bookstores often have some great stuff)
+  * If your Zine is for personal use, magazines are a good source (Think tech magazines, Japanese bookstores often have some great stuff)
   * You can also print out imagery
-  * See notes on Intellectual Property for further considerations
+  * See [notes on Intellectual Property below](https://ann-kilzer.gitbook.io/creative-coding-study-session/sessions/session-6-tech-zines#intellectual-property-considerations) for further considerations
 * Glue (Ann recommends [アラッビクヤマト](https://www.yamato.co.jp/products/I00000042/) which can be found at any Japanese convenience store)
 * Stapler for binding
 
