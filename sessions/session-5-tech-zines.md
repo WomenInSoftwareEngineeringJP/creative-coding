@@ -1,5 +1,5 @@
 ---
-description: July
+description: August
 ---
 
 # 📖 Session 6: Tech Zines
@@ -28,7 +28,11 @@ Also, given our Network is based in Tokyo, we must nod to the influence of Manga
 
 What are you trying to teach? What's your message?
 
-\[ COMING SOON ]
+* Use pictures to explain a data structure or algorithm
+* Share tips on preparing for coding interviews
+* Illustrate the beauty of mathematics and logic
+* Tell a story about a historic woman in computer science
+* Be creative! There are no limits
 
 ## 3. Crafting
 
