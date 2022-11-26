@@ -8,7 +8,7 @@ description: Home page for Creative Coding Study Session
 
 ## Creative Coding Study Group
 
-Now in GitBook! [https://ann-kilzer-kiruz.gitbook.io/creative-coding-study-session/](https://ann-kilzer-kiruz.gitbook.io/creative-coding-study-session/)
+Now in GitBook! [https://ann-kilzer.gitbook.io/creative-coding-study-session/](https://ann-kilzer.gitbook.io/creative-coding-study-session/)
 
 ### How to participate
 
