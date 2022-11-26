@@ -11,6 +11,7 @@
 * [⚙ Session 4: Processing](sessions/session-4-processing.md)
 * [😂 Session 5: Emoji](sessions/session-6-emoji.md)
 * [📖 Session 6: Tech Zines](sessions/session-5-tech-zines.md)
+* [🐙 Session 7: GitHub Profile Customization](sessions/session-7-github-profile-customization.md)
 * [🤖 A.I. for Humor](sessions/a.i.-for-humor.md)
 
 ## 🧰 Resources
