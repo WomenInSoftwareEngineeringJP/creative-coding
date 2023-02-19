@@ -76,17 +76,14 @@ What would you like to share via your website?&#x20;
 This is the simplest way
 
 * Basic HTML: [https://www.w3schools.com/HTML/html\_lists.asp](https://www.w3schools.com/HTML/html\_lists.asp)
-*
-
-
+* React MUI: [https://mui.com/material-ui/react-list/](https://mui.com/material-ui/react-list/)
+* Vue Vuetify: [https://vuetifyjs.com/en/components/lists/](https://vuetifyjs.com/en/components/lists/)
 
 ### Data Tables
 
 * Basic HTML Table: [https://www.w3schools.com/HTML/html\_tables.asp](https://www.w3schools.com/HTML/html\_tables.asp)
 * React MUI: [https://mui.com/material-ui/react-table/#data-table](https://mui.com/material-ui/react-table/#data-table)
-* Vue Vuetify:&#x20;
-
-
+* Vue Vuetify: [https://vuetifyjs.com/en/components/data-tables/](https://vuetifyjs.com/en/components/data-tables/)
 
 ### Grids
 
@@ -94,4 +91,4 @@ CSS and many layout frameworks include grid systems. Learn more here
 
 * Learn basics of CSS Grid: [https://cssgridgarden.com/](https://cssgridgarden.com/)
 * React MUI: [https://mui.com/material-ui/react-grid/](https://mui.com/material-ui/react-grid/)
-* Vue Vuetify:&#x20;
+* Vue Vuetify: [https://vuetifyjs.com/en/components/grids/](https://vuetifyjs.com/en/components/grids/)
