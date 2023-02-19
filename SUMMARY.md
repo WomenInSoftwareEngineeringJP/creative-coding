@@ -12,6 +12,7 @@
 * [😂 Session 5: Emoji](sessions/session-6-emoji.md)
 * [📖 Session 6: Tech Zines](sessions/session-5-tech-zines.md)
 * [🐙 Session 7: GitHub Profile Customization](sessions/session-7-github-profile-customization.md)
+* [🍡 Session 8: Create a "Collection" Website](sessions/session-8-create-a-collection-website.md)
 * [🤖 A.I. for Humor](sessions/a.i.-for-humor.md)
 
 ## 🧰 Resources
