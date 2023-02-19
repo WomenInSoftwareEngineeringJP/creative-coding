@@ -92,3 +92,19 @@ CSS and many layout frameworks include grid systems. Learn more here
 * Learn basics of CSS Grid: [https://cssgridgarden.com/](https://cssgridgarden.com/)
 * React MUI: [https://mui.com/material-ui/react-grid/](https://mui.com/material-ui/react-grid/)
 * Vue Vuetify: [https://vuetifyjs.com/en/components/grids/](https://vuetifyjs.com/en/components/grids/)
+
+## How to deploy your website to the web
+
+First, save your project from Code Sandbox into GitHub by creating a PR.
+
+Next, you'll need to find a way server your GitHub repository to the web. A couple free services are available:
+
+{% tabs %}
+{% tab title="Netlify" %}
+... coming soon
+{% endtab %}
+
+{% tab title="GitHub Pages" %}
+{% embed url="https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane" %}
+{% endtab %}
+{% endtabs %}
