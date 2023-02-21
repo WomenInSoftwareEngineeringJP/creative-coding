@@ -4,7 +4,7 @@ description: Make a microsite showcasing a list or group of things
 
 # 🍡 Session 8: Create a "Collection" Website
 
-### Event Link:
+Event Link:
 
 {% embed url="https://www.meetup.com/women-who-code-tokyo/events/291265524/" %}
 
@@ -60,9 +60,10 @@ What would you like to share via your website?&#x20;
 * [https://www.colordic.org/w](https://www.colordic.org/w)
 * [https://www.awwwards.com/awwwards/collections/free-fonts/](https://www.awwwards.com/awwwards/collections/free-fonts/)
 
-#### Art Galleries
+#### Art & Design Galleries
 
 * [https://www.byalicelee.com/](https://www.byalicelee.com/)
+* [https://www.c82.net/](https://www.c82.net/)
 
 #### Misc.
 
@@ -101,10 +102,18 @@ Next, you'll need to find a way server your GitHub repository to the web. A coup
 
 {% tabs %}
 {% tab title="Netlify" %}
-... coming soon
+{% embed url="https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/" %}
 {% endtab %}
 
 {% tab title="GitHub Pages" %}
-{% embed url="https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane" %}
+{% embed url="https://vitejs.dev/guide/static-deploy.html#github-pages" %}
+Instructions for deploying a static site with Vite and GitHub Pages
+{% endembed %}
+{% endtab %}
+
+{% tab title="GitLab Pages" %}
+{% embed url="https://vitejs.dev/guide/static-deploy.html#gitlab-pages-and-gitlab-ci" %}
+How to deploy a static vite site to GitLab Pages
+{% endembed %}
 {% endtab %}
 {% endtabs %}
